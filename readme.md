@@ -19,6 +19,6 @@ I was born in 2000 and right now I'm living in Medellín, Colombia.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stiware&layout=compact)
 ## Look at me! 👀
-  <a href="instagram.com/alert_3312" target="_blank">
+  <a href="https://www.instagram.com/alert_3312/" target="_blank">
   <img src="https://img.shields.io/badge/alert_3312%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
-  <a href="twitter.com/alert3312" target="_blank"> <img src="https://img.shields.io/badge/Alert3312%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
+  <a href="https://www.instagram.com/alert_3312/" target="_blank"> <img src="https://img.shields.io/badge/Alert3312%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
