@@ -21,4 +21,4 @@ I was born in 2000 and right now I'm living in Medellín, Colombia.
 ## Look at me! 👀
   <a href="https://www.instagram.com/alert_3312/" target="_blank">
   <img src="https://img.shields.io/badge/alert_3312%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
-  <a href="https://www.instagram.com/alert_3312/" target="_blank"> <img src="https://img.shields.io/badge/Alert3312%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
+  <a href="https://twitter.com/alert3312/" target="_blank"> <img src="https://img.shields.io/badge/Alert3312%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
