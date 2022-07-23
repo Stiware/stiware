@@ -19,4 +19,6 @@ I was born in 2000 and right now I'm living in Medellín, Colombia.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stiware&layout=compact)
 ## Look at me! 👀
-<a href="https://www.fcoterroba.com" target="_blank"><img src="https://img.shields.io/badge/WWW.FCOTERROBA.COM-WWW.FCOTERROBA.COM-white"></a>  <img src="https://img.shields.io/badge/fcoterroba%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/fcoterroba%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/-fcoterroba-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <a href="instagram.com/alert_3312" target="_blank">
+  <img src="https://img.shields.io/badge/alert_3312%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
+  <a href="twitter.com/alert3312" target="_blank"> <img src="https://img.shields.io/badge/Alert3312%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> 
