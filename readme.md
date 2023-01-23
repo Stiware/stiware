@@ -1,5 +1,5 @@
 # Hi! I'm Stiware! 👋🏻
-Hola! my fullname is Stiware Alexander Quintero Aguirre
+Hello! my fullname is Stiware Alexander Quintero Aguirre
 
 I was born in 2000 and right now I'm living in Medellín, Colombia.
 ## Official Education 👨🏻‍🎓
